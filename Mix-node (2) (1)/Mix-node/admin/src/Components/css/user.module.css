@@ -1,0 +1,115 @@
+
+    /* Add category modal CSS*/
+    .add_modal{
+        width:100%;
+        height:100%;
+        background:#000000b5;
+        position: absolute;
+        z-index: 9999;
+        top: 0;
+        padding: 50px;
+        display: none;
+    }
+     #add_category{
+        width:70%;
+        height:auto;
+        background:#ccc;
+        margin:auto;
+        position:fixed;
+        top:15%;
+        left:17%;
+        padding:10px 20px;
+        /*        transform: translate(-20%,-50%);*/
+      }
+      .heading_name{
+        width:100%;
+        height:auto;
+        padding: 5px 10px;
+        font-size:18px;
+      }
+      .heading_name b{padding:0px 0px ; }
+      .heading_name span{float: right;
+        cursor:pointer;
+        font-size:30px;
+        padding:0px;
+        margin-top:-12px;
+      }
+      .form_div{
+        width:100%;
+        height:auto;
+        padding:10px 10px ;
+      }
+      .form_div .category{
+        width:75%;
+        height:40px;
+        padding:4px 20px;
+        font-size:16px;
+        border-radius: 5px;
+        border: 1px solid darkgrey;
+      }
+      .form_div .category:focus{
+        outline:1px solid darkgrey;
+      }
+      .form_div #submit{
+        width:auto;
+        height:auto;
+        background:#4040ef;
+        padding:10px 30px;
+        border:none;
+        color: white;
+        border-radius: 6px;
+        font-size:15px;
+        margin-left: 10px;
+      }
+      /* Add category modal CSS end */
+      .category_table{
+        width:100%;
+        height:100%;
+        padding:20px 0px;
+      }
+      
+     .category_table  table{
+        width:100%;
+        font-size:14px;
+      }
+      /* export the report CSS */
+      .btn-exp{float:right;
+       margin-bottom:20px;}
+     /* export css ends */
+
+     .form_div .sub_category,
+      .form_div .category_n{
+        width:49%;
+        height:40px;
+        padding:4px 20px;
+        font-size:16px;
+        border-radius: 5px;
+        border: 1px solid darkgrey;
+      }
+      .form_div .sub_category:focus,
+      .form_div .category_n:focus{
+        outline:1px solid darkgrey;
+      }
+
+      .form_div label{
+        font-size:16px;
+        font-weight:600;
+        margin-bottom:2px;
+      }
+      .form_div input,
+      .form_div select{
+        width:100%;
+        height:40px;
+        padding:4px 20px;
+        font-size:16px;
+        border-radius: 5px;
+        border: 1px solid darkgrey;
+        margin-bottom: 20px;
+        outline: none;
+        border: none;
+      }
+      .form_div input:focus,
+      .form_div select:focus{
+        outline:2px solid #845cde;
+        transition: all 0.1s ease;
+      }

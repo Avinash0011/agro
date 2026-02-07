@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "6947bcd545b6c75026881dde"
+  },
+  "Heading": "Revolutionizing Food Safety with Blockchain",
+  "Description": "Discover how end-to-end traceability is becoming the gold standard in food processing, allowing manufacturers to track ingredients from farm to fork in real-time.",
+  "Author": "Dr. Aris Thorne",
+  "Date": "2025-12-15",
+  "Photo": "blog_blockchain.jpg",
+  "currentDate": "2025-12-21",
+  "currentTime": "10:00:00"
+},
+{
+  "_id": {
+    "$oid": "6947bcd545b6c75026881ddf"
+  },
+  "Heading": "The Rise of IQF Technology in Vegetable Preservation",
+  "Description": "Individual Quick Freezing (IQF) allows for the preservation of cellular structure in vegetables. Learn why this method is superior to traditional bulk freezing for nutritional retention.",
+  "Author": "Marcus Vane",
+  "Date": "2025-12-18",
+  "Photo": "blog_iqf.jpg",
+  "currentDate": "2025-12-21",
+  "currentTime": "10:15:00"
+},
+{
+  "_id": {
+    "$oid": "6947bcd545b6c75026881de0"
+  },
+  "Heading": "Clean Label Trends: Processing Without Additives",
+  "Description": "Consumers are demanding shorter ingredient lists. We explore high-pressure processing (HPP) as a natural alternative to chemical preservatives in fruit juices.",
+  "Author": "Elena Rodriguez",
+  "Date": "2025-12-20",
+  "Photo": "blog_clean_label.jpg",
+  "currentDate": "2025-12-21",
+  "currentTime": "10:30:00"
+},
+{
+  "_id": {
+    "$oid": "6947bcd545b6c75026881de1"
+  },
+  "Heading": "AI-Driven Sorting in Large Scale Grain Processing",
+  "Description": "How machine learning and optical sensors are achieving 99.9% purity in grain sorting, significantly reducing waste and improving export quality.",
+  "Author": "Kevin Zhang",
+  "Date": "2025-12-21",
+  "Photo": "blog_ai_sorting.jpg",
+  "currentDate": "2025-12-21",
+  "currentTime": "11:00:00"
+},
+{
+  "_id": {
+    "$oid": "6947bcd545b6c75026881de2"
+  },
+  "Heading": "Sustainable Energy in Dehydration Plants",
+  "Description": "A look at how modern dehydration facilities are integrating solar-thermal energy to reduce the carbon footprint of dried fruit and vegetable production.",
+  "Author": "Sarah Jenkins",
+  "Date": "2025-12-10",
+  "Photo": "blog_energy.jpg",
+  "currentDate": "2025-12-21",
+  "currentTime": "11:20:00"
+},
+{
+  "_id": {
+    "$oid": "6947bcd545b6c75026881de3"
+  },
+  "Heading": "Reducing Water Waste in CIP Systems",
+  "Description": "Clean-In-Place (CIP) is essential for hygiene, but it is water-intensive. Explore new recycling loops that allow for 40% water recovery in dairy and beverage lines.",
+  "Author": "Robert Miller",
+  "Date": "2025-12-05",
+  "Photo": "blog_cip.jpg",
+  "currentDate": "2025-12-21",
+  "currentTime": "11:45:00"
+}]

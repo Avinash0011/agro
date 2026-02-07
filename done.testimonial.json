@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "6947bffa02b8732997df453c"
+  },
+  "name": "Arjun Deshmukh",
+  "post": "Proprietor, Deshmukh Agro Exports",
+  "description": "The automated sorting and grading line for onions has reduced our manual labor costs by 40%. The precision in sizing is exactly what our international clients demand.",
+  "photo": "testi_avatar2.png",
+  "currentdate": "2025-12-21",
+  "currenttime": "15:30:00"
+},
+{
+  "_id": {
+    "$oid": "6947bffa02b8732997df453d"
+  },
+  "name": "Priya Iyer",
+  "post": "Quality Assurance Manager, South-Spice Foods",
+  "description": "Their vacuum dehydration technology is impressive. It preserves the natural color and pungency of our curry leaves and spices without any chemical additives.",
+  "photo": "testi_avatar.png",
+  "currentdate": "2025-12-21",
+  "currenttime": "15:35:00"
+},
+{
+  "_id": {
+    "$oid": "6947bffa02b8732997df453e"
+  },
+  "name": "Vikram Singh Rathore",
+  "post": "MD, Heritage Dairy & Beverages",
+  "description": "We've been using their UHT processing plant for six months now. The shelf stability of our flavored milk has increased to 180 days with zero compromise on taste.",
+  "photo": "testi_avatar.png",
+  "currentdate": "2025-12-21",
+  "currenttime": "15:40:00"
+},
+{
+  "_id": {
+    "$oid": "6947bffa02b8732997df453f"
+  },
+  "name": "Meenakshi Chatterjee",
+  "post": "Founder, Organic Greens Hub",
+  "description": "The IQF (Individual Quick Freezing) solution for our green peas has been a game changer. The peas remain separate and fresh, making them perfect for retail packaging.",
+  "photo": "testi_avatar2.png",
+  "currentdate": "2025-12-21",
+  "currenttime": "15:45:00"
+},
+{
+  "_id": {
+    "$oid": "6947bffa02b8732997df4540"
+  },
+  "name": "Sanjay Gadvi",
+  "post": "Operations Head, Gujarat Fruit Preserves",
+  "description": "Their aseptic pulp processing line is world-class. We successfully processed 500 tons of mango pulp this season with minimal downtime and maximum efficiency.",
+  "photo": "testi_avatar.png",
+  "currentdate": "2025-12-21",
+  "currenttime": "15:50:00"
+},
+{
+  "_id": {
+    "$oid": "6947bffa02b8732997df4541"
+  },
+  "name": "Anil Kulkarni",
+  "post": "CEO, Sahyadri Frozen Foods",
+  "description": "Excellent support during the HACCP certification process. Their machines are designed with hygiene in mind, making cleaning and maintenance very easy for our staff.",
+  "photo": "testi_avatar2.png",
+  "currentdate": "2025-12-21",
+  "currenttime": "15:55:00"
+}]

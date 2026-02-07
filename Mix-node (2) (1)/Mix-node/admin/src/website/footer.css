@@ -1,0 +1,163 @@
+@media (min-width: 360px) {
+    [data-vertical-style=overlay][data-toggled=icon-overlay-close]:not([data-icon-overlay=open]) .app-sidebar {
+        width:5rem !important;
+    }
+
+    [data-vertical-style=overlay][data-toggled=icon-overlay-close]:not([data-icon-overlay=open]) .app-sidebar .main-sidebar-header {
+        width: 5rem !important;
+    }
+
+    [data-vertical-style=overlay][data-toggled=icon-overlay-close]:not([data-icon-overlay=open]) .app-sidebar .main-sidebar-header .header-logo .toggle-logo {
+        display: block !important;
+    }
+
+    [data-vertical-style=overlay][data-toggled=icon-overlay-close]:not([data-icon-overlay=open]) .app-sidebar .main-sidebar-header .header-logo .desktop-dark,[data-vertical-style=overlay][data-toggled=icon-overlay-close]:not([data-icon-overlay=open]) .app-sidebar .main-sidebar-header .header-logo .desktop-logo,[data-vertical-style=overlay][data-toggled=icon-overlay-close]:not([data-icon-overlay=open]) .app-sidebar .main-sidebar-header .header-logo .toggle-dark,[data-vertical-style=overlay][data-toggled=icon-overlay-close]:not([data-icon-overlay=open]) .app-sidebar .main-sidebar-header .header-logo .desktop-white,[data-vertical-style=overlay][data-toggled=icon-overlay-close]:not([data-icon-overlay=open]) .app-sidebar .main-sidebar-header .header-logo .toggle-white {
+        display: none !important;
+    }
+
+    [data-vertical-style=overlay][data-toggled=icon-overlay-close]:not([data-icon-overlay=open]) .app-sidebar .category-name,[data-vertical-style=overlay][data-toggled=icon-overlay-close]:not([data-icon-overlay=open]) .app-sidebar .side-menu__label,[data-vertical-style=overlay][data-toggled=icon-overlay-close]:not([data-icon-overlay=open]) .app-sidebar .side-menu__angle {
+        display: none !important;
+    }
+
+    [data-vertical-style=overlay][data-toggled=icon-overlay-close]:not([data-icon-overlay=open]) .app-sidebar .slide.has-sub.open .slide-menu {
+        display: none!important
+    }
+
+    [data-vertical-style=overlay][data-toggled=icon-overlay-close]:not([data-icon-overlay=open]) .app-sidebar .side-menu__icon {
+        margin-inline-end:0 !important;}
+
+    [data-vertical-style=overlay][data-toggled=icon-overlay-close]:not([data-icon-overlay=open]) .app-sidebar .slide__category {
+        padding: 1.2rem 1.65rem !important;
+        position: relative !important;
+    }
+
+    [data-vertical-style=overlay][data-toggled=icon-overlay-close]:not([data-icon-overlay=open]) .app-sidebar .slide__category:before {
+        content: "";
+        position: absolute;
+        inset-inline-start: 2.25rem;
+        inset-inline-end: 0;
+        inset-block-start: 1.25rem;
+        inset-block-end: 0;
+        width: .35rem;
+        border-radius: 3.125rem;
+        height: .35rem;
+        border: 1px solid var(--menu-prime-color);
+        opacity: 1
+    }
+
+    [data-vertical-style=overlay][data-toggled=icon-overlay-close]:not([data-icon-overlay=open]) .app-sidebar .side-menu__item .badge {
+        display: none !important;
+    }
+
+    [data-vertical-style=overlay][data-toggled=icon-overlay-close]:not([data-icon-overlay=open]) .side-menu__item {
+        justify-content: center !important;
+    }
+
+    [data-vertical-style=overlay][data-toggled=icon-overlay-close] .app-header {
+        padding-inline-start:5rem !important;}
+
+    [data-vertical-style=overlay][data-toggled=icon-overlay-close] .app-content {
+        margin-inline-start:5rem !important;}
+
+    [data-vertical-style=overlay][data-toggled=icon-overlay-close][data-icon-overlay=open] .app-sidebar,[data-vertical-style=overlay][data-toggled=icon-overlay-close][data-icon-overlay=open] .app-sidebar .main-sidebar-header {
+        width: 15rem
+    }
+
+    [data-vertical-style=overlay][data-toggled=icon-overlay-close][data-icon-overlay=open] .app-sidebar .main-sidebar-header .header-logo .desktop-logo {
+        display: block
+    }
+
+    [data-vertical-style=overlay][data-toggled=icon-overlay-close][data-icon-overlay=open] .app-sidebar .main-sidebar-header .header-logo .desktop-dark,[data-vertical-style=overlay][data-toggled=icon-overlay-close][data-icon-overlay=open] .app-sidebar .main-sidebar-header .header-logo .toggle-logo,[data-vertical-style=overlay][data-toggled=icon-overlay-close][data-icon-overlay=open] .app-sidebar .main-sidebar-header .header-logo .toggle-dark,[data-vertical-style=overlay][data-toggled=icon-overlay-close][data-icon-overlay=open] .app-sidebar .main-sidebar-header .header-logo .desktop-white,[data-vertical-style=overlay][data-toggled=icon-overlay-close][data-icon-overlay=open] .app-sidebar .main-sidebar-header .header-logo .toggle-white {
+        display: none
+    }
+
+    [data-vertical-style=overlay][data-toggled=icon-overlay-close][data-icon-overlay=open] .app-sidebar .side-menu__item {
+        justify-content: flex-start
+    }
+
+    [data-vertical-style=overlay][data-toggled=icon-overlay-close][data-icon-overlay=open] .app-sidebar .side-menu__icon {
+        margin-inline-end:.625rem}
+
+    [data-vertical-style=overlay][data-toggled=icon-overlay-close][data-icon-overlay=open] .app-sidebar .slide__category {
+        padding: .75rem 1.65rem
+    }
+
+    [data-vertical-style=overlay][data-toggled=icon-overlay-close][data-icon-overlay=open] .app-sidebar .slide__category:before {
+        display: none
+    }
+
+    [data-vertical-style=overlay][data-toggled=icon-overlay-close][data-theme-mode=dark] .main-sidebar-header .header-logo .toggle-dark {
+        display: block
+    }
+
+    [data-vertical-style=overlay][data-toggled=icon-overlay-close][data-theme-mode=dark] .main-sidebar-header .header-logo .desktop-dark,[data-vertical-style=overlay][data-toggled=icon-overlay-close][data-theme-mode=dark] .main-sidebar-header .header-logo .desktop-logo,[data-vertical-style=overlay][data-toggled=icon-overlay-close][data-theme-mode=dark] .main-sidebar-header .header-logo .toggle-logo,[data-vertical-style=overlay][data-toggled=icon-overlay-close][data-theme-mode=dark] .main-sidebar-header .header-logo .desktop-white,[data-vertical-style=overlay][data-toggled=icon-overlay-close][data-theme-mode=dark] .main-sidebar-header .header-logo .toggle-white {
+        display: none
+    }
+
+    [data-vertical-style=overlay][data-toggled=icon-overlay-close][data-theme-mode=dark][data-icon-overlay=open] .main-sidebar-header .header-logo .desktop-dark {
+        display: block
+    }
+
+    [data-vertical-style=overlay][data-toggled=icon-overlay-close][data-theme-mode=dark][data-icon-overlay=open] .main-sidebar-header .header-logo .toggle-dark,[data-vertical-style=overlay][data-toggled=icon-overlay-close][data-theme-mode=dark][data-icon-overlay=open] .main-sidebar-header .header-logo .desktop-logo,[data-vertical-style=overlay][data-toggled=icon-overlay-close][data-theme-mode=dark][data-icon-overlay=open] .main-sidebar-header .header-logo .toggle-logo,[data-vertical-style=overlay][data-toggled=icon-overlay-close][data-theme-mode=dark][data-icon-overlay=open] .main-sidebar-header .header-logo .desktop-white,[data-vertical-style=overlay][data-toggled=icon-overlay-close][data-theme-mode=dark][data-icon-overlay=open] .main-sidebar-header .header-logo .toggle-white {
+        display: none
+    }
+}
+.dropdown-menu.custom-dropdown {
+  opacity: 0;
+  transform: translate(-20px, -10px);
+  transition: all 0.25s ease-in-out;
+  visibility: hidden;
+}
+
+/* When shown */
+.dropdown-menu.custom-dropdown.show {
+  opacity: 1;
+  transform: translate(0, 5px);
+  visibility: visible;
+}
+
+/* Custom class for fadeOut */
+.dropdown-menu.custom-dropdown.fade-out {
+  opacity: 0 !important;
+  transform: translate(-20px, -10px) !important;
+  visibility: visible !important; /* keep it visible until animation ends */
+}
+.dropdown-menu.custom-dropdown li{
+  font-size:11px;
+  align-items: center;
+}
+
+.side-menu__icon{
+    font-size: 22px !important;
+}
+.main-menu .slide{
+    margin-bottom: 10px;
+    padding:2px !important;
+}
+
+.css-1nmdiq5-menu{
+    z-index:99 !important;
+}
+
+input[type="search"]:hover,input[type="search"]:focus,input[type="search"]:active{
+ border:2px solid var(--primary-color) !important;
+ transition: all 0.4s ease-in-out !important;
+}
+
+.card.custom-card {
+    box-shadow: 4px 4px 4px var(--primary02) !important;
+}
+.fs-52 {
+    font-size: 3rem;
+}
+#more-apps .dropdown-item.active .side-menu__label{
+    color:#fff;
+}
+
+#more-apps .side-menu__label{
+color: #10296f;
+}
+
+#more-apps{
+    border-color: transparent;
+}

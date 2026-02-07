@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "6947b7ce32f7e96e3cd2e298"
+  },
+  "Question": "What food safety certifications do your facilities maintain?",
+  "Answer": "Our processing plants are fully ISO 22000 and FSSC 22000 certified, adhering to strict Global Food Safety Initiative (GFSI) standards.",
+  "currentDate": "2025-12-21",
+  "currentTime": "14:30:00"
+},
+{
+  "_id": {
+    "$oid": "6947b7ce32f7e96e3cd2e299"
+  },
+  "Question": "What thermal processing methods do you utilize for liquid products?",
+  "Answer": "We use HTST (High Temperature Short Time) and UHT (Ultra-High Temperature) pasteurization to ensure microbial safety while preserving nutritional integrity.",
+  "currentDate": "2025-12-21",
+  "currentTime": "14:35:12"
+},
+{
+  "_id": {
+    "$oid": "6947b7ce32f7e96e3cd2e29a"
+  },
+  "Question": "How do you manage the cold chain during transport?",
+  "Answer": "We utilize real-time IoT temperature monitoring across our logistics fleet to ensure products remain within the critical +2°C to +4°C range.",
+  "currentDate": "2025-12-21",
+  "currentTime": "14:40:05"
+},
+{
+  "_id": {
+    "$oid": "6947b7ce32f7e96e3cd2e29b"
+  },
+  "Question": "Are your processing lines equipped for allergen control?",
+  "Answer": "Yes, we implement rigorous HACCP-based allergen management, including dedicated production runs and automated Clean-In-Place (CIP) systems.",
+  "currentDate": "2025-12-21",
+  "currentTime": "14:45:22"
+},
+{
+  "_id": {
+    "$oid": "6947b7ce32f7e96e3cd2e29c"
+  },
+  "Question": "What is the typical shelf life of your retort-packaged items?",
+  "Answer": "Through advanced retort processing and multilayer barrier packaging, our shelf-stable products maintain quality for 12 to 18 months without refrigeration.",
+  "currentDate": "2025-12-21",
+  "currentTime": "14:50:10"
+}]

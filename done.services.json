@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "6947b9fe45b6c75026881dd8"
+  },
+  "service_name": "Contract Food Manufacturing",
+  "description": "Customized end-to-end production solutions for private labels, including formulation, processing, and bulk packaging under strict quality control.",
+  "photo": "service_manufacturing.png",
+  "currentDate": "2025-12-21",
+  "currentTime": "16:00:00"
+},
+{
+  "_id": {
+    "$oid": "6947b9fe45b6c75026881dd9"
+  },
+  "service_name": "Cold Chain Logistics",
+  "description": "Temperature-controlled storage and distribution services ensuring your perishable processed foods stay between 2°C and 4°C from plant to shelf.",
+  "photo": "service_logistics.png",
+  "currentDate": "2025-12-21",
+  "currentTime": "16:05:00"
+},
+{
+  "_id": {
+    "$oid": "6947b9fe45b6c75026881dda"
+  },
+  "service_name": "R&D and Product Formulation",
+  "description": "Expert food technologists help develop new recipes, improve shelf-life, and optimize nutritional profiles using advanced lab testing.",
+  "photo": "service_rnd.png",
+  "currentDate": "2025-12-21",
+  "currentTime": "16:10:00"
+},
+{
+  "_id": {
+    "$oid": "6947b9fe45b6c75026881ddb"
+  },
+  "service_name": "Retort & Aseptic Packaging",
+  "description": "High-tech packaging services that allow food products to remain shelf-stable for up to 18 months without the need for artificial preservatives.",
+  "photo": "service_packaging.png",
+  "currentDate": "2025-12-21",
+  "currentTime": "16:15:00"
+},
+{
+  "_id": {
+    "$oid": "6947b9fe45b6c75026881ddc"
+  },
+  "service_name": "Quality Assurance & Auditing",
+  "description": "Comprehensive safety audits including HACCP verification, allergen testing, and microbial analysis to ensure 100% compliance with FSSAI standards.",
+  "photo": "service_quality.png",
+  "currentDate": "2025-12-21",
+  "currentTime": "16:20:00"
+},
+{
+  "_id": {
+    "$oid": "6947b9fe45b6c75026881ddd"
+  },
+  "service_name": "Dehydration & Powder Processing",
+  "description": "Large-scale industrial dehydration services for vegetables and fruits, converting raw produce into high-quality flakes, granules, or fine powders.",
+  "photo": "service_dehydration.png",
+  "currentDate": "2025-12-21",
+  "currentTime": "16:25:00"
+}]

@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "6947c25b3f066d382d8b273f"
+  },
+  "website_name": "AGRO FARMING PROCESSING",
+  "mobile": "9257186645",
+  "email": "agro@farming.com",
+  "address": "Sec 26, Pratap Nagar, Jaipur",
+  "timing": "MON-FRI 8:00 AM - 2:00 PM",
+  "logo": "1766310866964_logo.jpg",
+  "about_heading": "About Us",
+  "about_subheading": "Welcome To Organic & Agriculture Company",
+  "about_desc": "We are a trusted food processing and agriculture company committed to delivering quality and safety in every product. By combining modern technology with responsible farming practices, we preserve freshness and nutrition. Our focus is on sustainability, traceability, and consistent excellence across the supply chain. From farm to table, we work to build long-term trust with farmers, partners, and consumers.",
+  "mission": "To provide fresh, safe, and high-quality food through sustainable agricultural and processing practices. To support farmers and communities while meeting global food safety standards.",
+  "vision": "To become a leading name in food processing by promoting innovation and sustainability. To create a healthier future by delivering trusted food solutions worldwide.",
+  "desc_one": "We follow sustainable farming practices that protect soil health, conserve water, and promote natural crop growth without harmful chemicals.",
+  "desc_two": "Every vegetable is carefully monitored from seed selection to harvest, ensuring freshness, nutrition, and consistent quality throughout the process.",
+  "desc_three": "Our modern processing and hygiene standards help deliver safe, clean, and farm-fresh produce that you can trust every day.",
+  "stat_h1": "Team Member",
+  "stat_c1": "897",
+  "stat_h2": "Our Farm",
+  "stat_c2": "784",
+  "stat_h3": "Happy Clients",
+  "stat_c3": "567",
+  "stat_h4": "Cup Of Coffee",
+  "stat_c4": "74",
+  "banner_small": "Eat Best",
+  "banner_big": "Eat Organic",
+  "banner_desc": "Delivering fresh, safe, and sustainable food solutions from farm to table by supporting farmers and preserving the natural value of every harvest.",
+  "banner_photo": "1766310491393_banner.jpg",
+  "currentdate": "2025-12-21",
+  "currenttime": "17:08:36"
+}]

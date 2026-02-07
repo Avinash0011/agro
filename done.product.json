@@ -1,0 +1,182 @@
+[{
+  "_id": {
+    "$oid": "6947b88945b6c75026881dcb"
+  },
+  "Product_id": "61000",
+  "Product_name": "Dehydrated Onion Flakes",
+  "Qty": "500g",
+  "Category": "vegetables",
+  "Actual_price": 120,
+  "MRPs": 180,
+  "Photo": "veg_onion.jpg",
+  "currentDate": "2025-12-21",
+  "currentTime": "15:00:00"
+},
+{
+  "_id": {
+    "$oid": "6947b88945b6c75026881dcc"
+  },
+  "Product_id": "61001",
+  "Product_name": "Frozen Sweet Corn Kernels",
+  "Qty": "1kg",
+  "Category": "vegetables",
+  "Actual_price": 90,
+  "MRPs": 150,
+  "Photo": "veg_corn.jpg",
+  "currentDate": "2025-12-21",
+  "currentTime": "15:01:00"
+},
+{
+  "_id": {
+    "$oid": "6947b88945b6c75026881dcd"
+  },
+  "Product_id": "61002",
+  "Product_name": "Canned Green Peas",
+  "Qty": "400g",
+  "Category": "vegetables",
+  "Actual_price": 55,
+  "MRPs": 85,
+  "Photo": "veg_peas.jpg",
+  "currentDate": "2025-12-21",
+  "currentTime": "15:02:00"
+},
+{
+  "_id": {
+    "$oid": "6947b88945b6c75026881dce"
+  },
+  "Product_id": "61003",
+  "Product_name": "Vacuum Fried Garlic Chips",
+  "Qty": "200g",
+  "Category": "vegetables",
+  "Actual_price": 150,
+  "MRPs": 220,
+  "Photo": "veg_garlic.jpg",
+  "currentDate": "2025-12-21",
+  "currentTime": "15:03:00"
+},
+{
+  "_id": {
+    "$oid": "6947b88945b6c75026881dcf"
+  },
+  "Product_id": "61004",
+  "Product_name": "Dried Spinach Powder",
+  "Qty": "250g",
+  "Category": "vegetables",
+  "Actual_price": 200,
+  "MRPs": 300,
+  "Photo": "veg_spinach.jpg",
+  "currentDate": "2025-12-21",
+  "currentTime": "15:04:00"
+},
+{
+  "_id": {
+    "$oid": "6947b88945b6c75026881dd0"
+  },
+  "Product_id": "61005",
+  "Product_name": "Pickled Red Paprika",
+  "Qty": "350g",
+  "Category": "vegetables",
+  "Actual_price": 110,
+  "MRPs": 190,
+  "Photo": "veg_paprika.jpg",
+  "currentDate": "2025-12-21",
+  "currentTime": "15:05:00"
+},
+{
+  "_id": {
+    "$oid": "6947b88945b6c75026881dd1"
+  },
+  "Product_id": "61006",
+  "Product_name": "Instant Potato Flakes",
+  "Qty": "1kg",
+  "Category": "vegetables",
+  "Actual_price": 180,
+  "MRPs": 260,
+  "Photo": "veg_potato.jpg",
+  "currentDate": "2025-12-21",
+  "currentTime": "15:06:00"
+},
+{
+  "_id": {
+    "$oid": "6947b88945b6c75026881dd2"
+  },
+  "Product_id": "61007",
+  "Product_name": "Blanched Cauliflower Florets",
+  "Qty": "500g",
+  "Category": "vegetables",
+  "Actual_price": 75,
+  "MRPs": 120,
+  "Photo": "veg_cauli.jpg",
+  "currentDate": "2025-12-21",
+  "currentTime": "15:07:00"
+},
+{
+  "_id": {
+    "$oid": "6947b88945b6c75026881dd3"
+  },
+  "Product_id": "61008",
+  "Product_name": "Diced Carrots (Retort Pack)",
+  "Qty": "300g",
+  "Category": "vegetables",
+  "Actual_price": 60,
+  "MRPs": 95,
+  "Photo": "veg_carrot.jpg",
+  "currentDate": "2025-12-21",
+  "currentTime": "15:08:00"
+},
+{
+  "_id": {
+    "$oid": "6947b88945b6c75026881dd4"
+  },
+  "Product_id": "61009",
+  "Product_name": "Alphonso Mango Pulp",
+  "Qty": "850g",
+  "Category": "fruites",
+  "Actual_price": 160,
+  "MRPs": 250,
+  "Photo": "fruit_mango.jpg",
+  "currentDate": "2025-12-21",
+  "currentTime": "15:09:00"
+},
+{
+  "_id": {
+    "$oid": "6947b88945b6c75026881dd5"
+  },
+  "Product_id": "61010",
+  "Product_name": "Freeze-Dried Strawberry Slices",
+  "Qty": "100g",
+  "Category": "fruites",
+  "Actual_price": 250,
+  "MRPs": 400,
+  "Photo": "fruit_strawberry.jpg",
+  "currentDate": "2025-12-21",
+  "currentTime": "15:10:00"
+},
+{
+  "_id": {
+    "$oid": "6947b88945b6c75026881dd6"
+  },
+  "Product_id": "61011",
+  "Product_name": "Pineapple Slices in Syrup",
+  "Qty": "450g",
+  "Category": "fruites",
+  "Actual_price": 85,
+  "MRPs": 140,
+  "Photo": "fruit_pineapple.jpg",
+  "currentDate": "2025-12-21",
+  "currentTime": "15:11:00"
+},
+{
+  "_id": {
+    "$oid": "6947b88945b6c75026881dd7"
+  },
+  "Product_id": "61012",
+  "Product_name": "Natural Apple Cider Concentrate",
+  "Qty": "500ml",
+  "Category": "fruites",
+  "Actual_price": 190,
+  "MRPs": 290,
+  "Photo": "fruit_apple.jpg",
+  "currentDate": "2025-12-21",
+  "currentTime": "15:12:00"
+}]
