@@ -25,7 +25,7 @@ router.route("/register").post(async (req,res)=>{
       }
     
    
-});
+});   
 
 
 router.route("/login_form").post(async (req,res)=>{
